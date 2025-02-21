@@ -4,6 +4,7 @@ import Education from "./Components/Education";
 import Technologies from "./Components/Technologies";
 import Projects from "./Components/Projects";
 import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
         <Education/>
         <Projects/>
         <Contact/>
+        <Footer/>
       </div>
       
     </div>
